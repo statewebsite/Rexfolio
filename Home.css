@@ -76,14 +76,13 @@
 
 @media (max-width: 575px) {
   .u-section-1-1 .u-text-1 {
-    font-size: 3rem;
-    margin-top: 204px;
-    margin-left: auto;
+    font-size: 4.5rem;
+    margin-top: 60px;
+    margin-left: 97px;
   }
 
   .u-section-1-1 .u-text-2 {
-    font-size: 3rem;
-    margin-right: 105px;
+    font-size: 4.5rem;
   }
 }
 
@@ -149,14 +148,21 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 504px;
+  }
+
   .u-section-1-2 .u-text-1 {
-    font-size: 3rem;
     margin-top: 200px;
+    margin-left: 0;
+    margin-right: 0;
+    font-size: 3rem;
   }
 
   .u-section-1-2 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
     font-size: 3rem;
-    margin-left: 41px;
   }
 }
 
@@ -273,8 +279,8 @@
 
   .u-section-1-4 .u-text-2 {
     font-size: 2.25rem;
-    margin-left: 24px;
-    margin-right: 24px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
@@ -342,6 +348,14 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1387px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 75px;
+  }
+
   .u-section-2 .u-text-2 {
     width: 340px;
   }
